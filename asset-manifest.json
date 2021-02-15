@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/laitanop/static/css/main.33e9b69d.chunk.css",
+    "main.js": "/laitanop/static/js/main.ca80d480.chunk.js",
+    "main.js.map": "/laitanop/static/js/main.ca80d480.chunk.js.map",
+    "runtime-main.js": "/laitanop/static/js/runtime-main.31fbed47.js",
+    "runtime-main.js.map": "/laitanop/static/js/runtime-main.31fbed47.js.map",
+    "static/js/2.e3da5782.chunk.js": "/laitanop/static/js/2.e3da5782.chunk.js",
+    "static/js/2.e3da5782.chunk.js.map": "/laitanop/static/js/2.e3da5782.chunk.js.map",
+    "static/js/3.2295e78e.chunk.js": "/laitanop/static/js/3.2295e78e.chunk.js",
+    "static/js/3.2295e78e.chunk.js.map": "/laitanop/static/js/3.2295e78e.chunk.js.map",
+    "index.html": "/laitanop/index.html",
+    "static/css/main.33e9b69d.chunk.css.map": "/laitanop/static/css/main.33e9b69d.chunk.css.map",
+    "static/js/2.e3da5782.chunk.js.LICENSE.txt": "/laitanop/static/js/2.e3da5782.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/laitanop/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31fbed47.js",
+    "static/js/2.e3da5782.chunk.js",
+    "static/css/main.33e9b69d.chunk.css",
+    "static/js/main.ca80d480.chunk.js"
+  ]
+}
